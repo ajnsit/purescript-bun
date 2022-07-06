@@ -1,0 +1,25 @@
+{
+  "name": "purescript-bun",
+  "version": "1.0.0",
+  "description": "ES4X bindings for Purescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "spago build",
+    "start": "bun run index.js",
+    "test": "bun wiptest index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnsit/purescript-bun.git"
+  },
+  "author": "Anupam Jain <ajnsit on google's service>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajnsit/purescript-bun/issues"
+  },
+  "homepage": "https://github.com/ajnsit/purescript-bun#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
